@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Hritik Nandanwar
 - 👀 I’m interested in Software Development and Machine Learning
-- 🌱 I’m currently pursuing Computer Science from SRM IST
-- 💞️ I’m looking to collaborate on Open-Source as well as looking to start my career as an Entry level Software Engineer
+- 🌱 I’m currently pursuing Computer Science at Concordia University
+- 💞️ I’m looking to collaborate on Open-Source projects as well as looking for internships.
 - 📫 How to reach me 
       @LinkedIn - https://www.linkedin.com/in/hritik-nandanwar-353a79148/
       @Email - hritiknandanwar16@gmail.com
